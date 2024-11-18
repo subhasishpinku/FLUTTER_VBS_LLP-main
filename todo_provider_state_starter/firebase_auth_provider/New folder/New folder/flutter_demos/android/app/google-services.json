@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480418657174",
+    "project_id": "flutternotification-d2050",
+    "storage_bucket": "flutternotification-d2050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480418657174:android:183306aac803e00265e3b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgNi-Zaa9OZx-go4B2fu0PR7S_UXLFkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

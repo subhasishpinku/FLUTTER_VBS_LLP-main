@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657261516179",
+    "project_id": "fbstatenfauthmain",
+    "storage_bucket": "fbstatenfauthmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657261516179:android:bb4b002c1e5c690df2c466",
+        "android_client_info": {
+          "package_name": "com.example.fbstatenfauthmain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIgU-NKXTtUAA29Y8bWvObXGUXixw3tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

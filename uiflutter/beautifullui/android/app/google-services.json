@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73357122110",
+    "project_id": "flutterbloc-39468",
+    "storage_bucket": "flutterbloc-39468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73357122110:android:35653d206223ea7cc4cf6f",
+        "android_client_info": {
+          "package_name": "com.example.beautifullui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-qb4vhi272EgURja435MCJvOP15yGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

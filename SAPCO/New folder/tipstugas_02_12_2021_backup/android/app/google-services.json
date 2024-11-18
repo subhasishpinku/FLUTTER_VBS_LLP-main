@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "804899900246",
+    "firebase_url": "https://tipstugas-app.firebaseio.com",
+    "project_id": "tipstugas-app",
+    "storage_bucket": "tipstugas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804899900246:android:d342d3f5ec254a1d8ce4f7",
+        "android_client_info": {
+          "package_name": "com.example.tipstugas_ios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804899900246-uqraf159sa1m92qiresmuqn6c57eldg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tipstugas_ios",
+            "certificate_hash": "a31c18284a9f29e3e5f85f44035b88609d9daa7d"
+          }
+        },
+        {
+          "client_id": "804899900246-j6omi60fl7dqpc1mrn0vt8v77clrltop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjZG6x10G8ES82HqyaFgnPXXccrZ4vKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804899900246-j6omi60fl7dqpc1mrn0vt8v77clrltop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804899900246-6gdijbcjea6raljibgsch3gn02tc5dtg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jk.tipstugas",
+                "app_store_id": "1550119990"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804899900246:android:9f4737d81ddda03d8ce4f7",
+        "android_client_info": {
+          "package_name": "com.tips.tugas.pt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804899900246-iljgcqi4tmt19rhh01met3line8fgp6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tips.tugas.pt",
+            "certificate_hash": "7366e00def42d7afdae41541fb45f19dee624263"
+          }
+        },
+        {
+          "client_id": "804899900246-j6omi60fl7dqpc1mrn0vt8v77clrltop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjZG6x10G8ES82HqyaFgnPXXccrZ4vKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804899900246-j6omi60fl7dqpc1mrn0vt8v77clrltop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804899900246-6gdijbcjea6raljibgsch3gn02tc5dtg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jk.tipstugas",
+                "app_store_id": "1550119990"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

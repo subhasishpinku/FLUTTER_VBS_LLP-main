@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="normal_xml_text_size">30sp</dimen>
+    <dimen name="large_xml_text_size">35sp</dimen>
+    <dimen name="etralarge_xml_text_size">70sp</dimen>
+
+    <dimen name="normal_xml_text_size_sub">20sp</dimen>
+    <dimen name="large_xml_text_size_sub">25sp</dimen>
+    <dimen name="etralarge_xml_text_size_sub">40sp</dimen>
+
+    <dimen name="normal_xml_text_size_subs">15sp</dimen>
+    <dimen name="large_xml_text_size_subs">20sp</dimen>
+    <dimen name="etralarge_xml_text_size_subs">15sp</dimen>
+
+
+    <dimen name="extra_xml_editext_size_height">100sp</dimen>
+    <dimen name="etra_xml_editext_size_width">20sp</dimen>
+
+    <dimen name="extra_large_button_with">250sp</dimen>
+    <dimen name="extra_lage_button_height">100sp</dimen>
+
+
+    <dimen name="drawer_header_layout_height">140dp</dimen>
+    <dimen name="elearge_drawer_header_layout_height">200dp</dimen>
+    <dimen name="drawer_circular_image">80dp</dimen>
+    <dimen name="drawer_circular_image1">115dp</dimen>
+    <dimen name="drawer_margin_left">15dp</dimen>
+    <dimen name="drawer_margin_left2">30dp</dimen>
+    <dimen name="drawer_civ_border">2dp</dimen>
+    <dimen name="drawer_drawable_padding">5dp</dimen>
+    <dimen name="drawer_textview_size">15sp</dimen>
+    <dimen name="large_drawer_textview_size">20sp</dimen>
+    <dimen name="xlarge_drawer_textview_size">35sp</dimen>
+
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="detail_backdrop_height">270dp</dimen>
+    <dimen name="app_bar_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

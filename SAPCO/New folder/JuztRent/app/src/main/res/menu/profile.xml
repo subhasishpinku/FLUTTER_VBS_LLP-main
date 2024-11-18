@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/drawer_home" />
+
+    <item
+        android:id="@+id/ic_user"
+        android:icon="@drawable/ic_my_profile_icon"
+        android:title="@string/drawer_user" />
+
+    <item
+        android:id="@+id/ic_notification"
+        android:icon="@drawable/ic_notification"
+        android:title="Notification" />
+
+</menu>

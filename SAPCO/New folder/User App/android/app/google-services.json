@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176415936329",
+    "project_id": "sreeleathers-8a61a",
+    "storage_bucket": "sreeleathers-8a61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176415936329:android:676efde8442eef74fe1498",
+        "android_client_info": {
+          "package_name": "sreeleathers.sapco.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176415936329-h1gfl54mjlpspd4jg8m1g01e68dtk7j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sreeleathers.sapco.com",
+            "certificate_hash": "7366e00def42d7afdae41541fb45f19dee624263"
+          }
+        },
+        {
+          "client_id": "176415936329-gah47lvn99l0qcaopt81od0g5d9h1eqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLL0DcGHbEzdHgBxAbIVxR3F5089v_0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176415936329-gah47lvn99l0qcaopt81od0g5d9h1eqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

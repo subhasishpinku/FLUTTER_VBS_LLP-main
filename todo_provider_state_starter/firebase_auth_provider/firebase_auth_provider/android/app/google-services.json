@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649448982851",
+    "project_id": "authfbprovider-4df7c",
+    "storage_bucket": "authfbprovider-4df7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649448982851:android:ee3cacd3f84b55b88207f6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74PT94UIitJoRPX7hBLWqARzjM4aw3aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#F0F0F0"
+    tools:ignore="MissingDefaultResource">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:card_view="http://schemas.android.com/tools">
+        <!--    <LinearLayout-->
+        <!--        android:id="@+id/lv"-->
+        <!--        android:background="@color/app_color"-->
+        <!--        android:layout_width="match_parent"-->
+        <!--        android:layout_height="wrap_content">-->
+        <!--        <RelativeLayout-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content">-->
+
+        <!--            <ImageView-->
+        <!--                android:id="@+id/Img"-->
+        <!--                android:layout_width="30sp"-->
+        <!--                android:layout_height="30sp"-->
+        <!--                android:layout_marginLeft="20sp"-->
+        <!--                android:layout_marginTop="10sp"-->
+        <!--                android:background="@drawable/ic_baseline_arrow_back_ios_24" />-->
+
+        <!--            <TextView-->
+        <!--                android:id="@+id/balance"-->
+        <!--                android:layout_width="wrap_content"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:layout_below="@+id/Img2"-->
+        <!--                android:layout_alignParentEnd="true"-->
+        <!--                android:layout_marginTop="2sp"-->
+        <!--                android:layout_marginRight="20sp"-->
+        <!--                android:textColor="@color/white"-->
+        <!--                android:textSize="15sp" />-->
+
+
+        <!--            <ImageView-->
+        <!--                android:id="@+id/Img2"-->
+        <!--                android:layout_width="30sp"-->
+        <!--                android:layout_height="30sp"-->
+        <!--                android:layout_alignParentEnd="true"-->
+        <!--                android:layout_marginTop="10sp"-->
+        <!--                android:layout_marginRight="20sp"-->
+        <!--                android:background="@drawable/ic_cart" />-->
+        <!--        </RelativeLayout>-->
+        <!--    </LinearLayout>-->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="800sp"
+            android:layout_marginTop="0sp"
+            android:background="@drawable/ellipses"
+            android:orientation="vertical"></FrameLayout>
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="800sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="37sp"
+            android:layout_marginTop="0sp"
+            android:gravity="left"
+            android:text="Terms &amp; Conditions"
+            android:textColor="@color/white"
+            android:textSize="@dimen/etralarge_xml_text_size"
+            android:textStyle="bold" />
+        <androidx.cardview.widget.CardView
+            android:layout_below="@+id/textView11"
+            android:id="@+id/card_view"
+            android:layout_marginTop="300sp"
+            app:cardCornerRadius="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="800sp"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_gravity="center"
+            card_view:cardBackgroundColor="#FFFFFFFF">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/tramss"
+                    android:layout_width="800sp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="37sp"
+                    android:layout_marginTop="40sp"
+                    android:gravity="left"
+                    android:text="Terms &amp; Conditions"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/etralarge_xml_text_size_sub"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginRight="20sp"
+                    android:gravity="left"
+                    android:textSize="@dimen/etralarge_xml_text_size_sub"
+                    android:layout_marginLeft="20sp"
+                    android:text="It is a long established fact that a reader
+will be distracted by the readable content
+of a page when looking at its layout.The point of using Lorem Ipsum is that it has
+a more-or-less normal distribution of
+letters, as opposed to using 'Content
+here, content here', making it look like readable English.  "
+                    android:textColor="@color/black"
+                    android:justificationMode="inter_word"
+                     />
+
+                <TextView
+                    android:textSize="@dimen/etralarge_xml_text_size_sub"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50sp"
+                    android:layout_below="@+id/tv"
+                    android:layout_marginTop="10sp"
+                    android:layout_marginRight="20sp"
+                    android:gravity="left"
+                    android:layout_marginLeft="20sp"
+                    android:text="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.  "
+                    android:textColor="@color/black"
+                    android:justificationMode="inter_word"
+                    />
+            </LinearLayout>
+
+
+
+        </androidx.cardview.widget.CardView>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="50sp"
+            android:gravity="center|bottom"
+            android:orientation="vertical">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="?android:attr/windowBackground"
+        app:itemBackground="@color/white"
+        android:foreground="?attr/selectableItemBackground"
+        app:itemIconTint="@android:color/black"
+        app:itemTextColor="@android:color/black"
+        app:menu="@menu/navigation" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
